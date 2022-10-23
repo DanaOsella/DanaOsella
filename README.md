@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaOsella
-- 👀 I’m interested in books, sports (mostly handball) and music
-- 🌱 I’m currently learning QA testing
+- 👀 I’m interested in handball, music (MCR & Paramore ♥) and Marvel
+- 🌱 I’m currently working as a QA :)
 - 📫 You can send me an e-mail to Dana.Osella@gmail.com ♥
 
 <!---
